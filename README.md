@@ -1,8 +1,6 @@
 <h1 align="center">Hello 👋, It's me Reshma Shrestha</h1>
 <h3 align="center">A passionate Software Quality Assurance Engineer</h3>
 
-- 🔭 I’m currently working on [Render Booking](https://renderbooking.com/)
-
 - 🌱 I’m currently learning **Automation testing**
 
 - 💬 Ask me about **Manual and Automation Testing**
